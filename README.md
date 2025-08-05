@@ -1,4 +1,4 @@
-# MuhammadRaheelSarwar
+# MUHAMMAD RAHEEL SARWAR
 
 Hi there 👋 I'm **Muhammad Raheel Sarwar!**
 I'm a passionate student of *Microbiology and Molecular Genetics* from Pakistan, dedicated to pioneering the intersection of biology 🧬 and technology 💻. My aim is to use advanced **Machine Learning and Deep Learning** techniques to train models for **Genomic Data science**, ultimately replacing outdated bioinformatics tools.
